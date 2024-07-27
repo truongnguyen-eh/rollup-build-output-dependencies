@@ -4,6 +4,7 @@ export default [
       './src/default-import-multiple-entries/duplicate/entry-1.js',
       './src/default-import-multiple-entries/duplicate/entry-2.js',
 
+      './src/default-import-multiple-entries/circular/dependency/index.js',
       './src/default-import-multiple-entries/circular/index.js',
     ],
     output: {
